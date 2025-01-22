@@ -2,15 +2,15 @@
 
 - **Scenario 1:**
   
-  <img src="./images/project1.png" alt="Scenario 1" width="600" height="400">
+  <img src="./images/project1.png" alt="Scenario 1" width="800" height="400">
 
 - **Scenario 2:**
   
-  <img src="./images/project2.png" alt="Scenario 2" width="600" height="400">
+  <img src="./images/project2.png" alt="Scenario 2" width="800" height="400">
 
 - **Scenario 3:**
   
-  <img src="./images/project3.png" alt="Scenario 3" width="600" height="400">
+  <img src="./images/project3.png" alt="Scenario 3" width="800" height="400">
 
 ## Authors
 - [**Sad Bin Siddique**](https://github.com/sadbinsiddique)
