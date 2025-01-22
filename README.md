@@ -17,7 +17,7 @@
 - [**Md Jannatun Naim**](https://github.com/mdjn)
 - [**Tarif-ul-Haider Rabbi**](https://github.com/rabbi2580)
 - [**S. F. Sheikh Saadi**](https://github.com/sheikhsaadi)
-- [**Mir Md. Shakib Munna**](https://github.com/mirshakibmunna)
+- [**Mir Md. Shakib Munna**](https://github.com/Sakib4805)
 
 ## Overview
 This project is an interactive graphical simulation built using OpenGL. It includes three distinct scenarios, each offering a dynamic and engaging visual experience. The application features day-night transitions, animation speed controls, and interactive sound elements to provide an immersive user experience.
