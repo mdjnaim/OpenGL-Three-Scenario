@@ -1,5 +1,17 @@
 ﻿# OpenGL-Three-Scenario
 
+- **Scenario 1:**
+  
+  <img src="./images/project1.png" alt="Scenario 1" width="600" height="400">
+
+- **Scenario 2:**
+  
+  <img src="./images/project2.png" alt="Scenario 2" width="600" height="400">
+
+- **Scenario 3:**
+  
+  <img src="./images/project3.png" alt="Scenario 3" width="600" height="400">
+
 ## Authors
 - [**Sad Bin Siddique**](https://github.com/sadbinsiddique)
 - [**Md Jannatun Naim**](https://github.com/mdjn)
@@ -38,18 +50,6 @@ This project is an interactive graphical simulation built using OpenGL. It inclu
 ## Requirements
 - OpenGL library
 - Compatible C++ compiler
-
-## Screenshots
-Below are some screenshots showcasing different scenarios in the application:
-
-- **Scenario 1:**
-  <img src="./images/project1.png" alt="Scenario 1" width="600" height="400">
-
-- **Scenario 2:**
-  <img src="./images/project2.png" alt="Scenario 2" width="600" height="400">
-
-- **Scenario 3:**
-  <img src="./images/project3.png" alt="Scenario 3" width="600" height="400">
 
 ## Summary
 "OpenGL Three Scenario" is a creative and educational project that demonstrates the power of OpenGL for interactive graphical applications. Combining animation, interactivity, and sound, it provides an engaging platform for exploring graphical programming and design.
