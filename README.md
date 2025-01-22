@@ -15,7 +15,7 @@
 ## Authors
 - [**Sad Bin Siddique**](https://github.com/sadbinsiddique)
 - [**Md Jannatun Naim**](https://github.com/mdjn)
-- [**Tarif-ul-Haider Rabbi**](https://github.com/tarifrabbi)
+- [**Tarif-ul-Haider Rabbi**](https://github.com/rabbi2580)
 - [**S. F. Sheikh Saadi**](https://github.com/sheikhsaadi)
 - [**Mir Md. Shakib Munna**](https://github.com/mirshakibmunna)
 
